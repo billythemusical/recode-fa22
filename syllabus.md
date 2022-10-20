@@ -174,6 +174,7 @@ Here are a number of handy resources we will be using throughout the class:
 - [W3 Schools Javascript Reference](https://www.w3schools.com/jsref/default.asp)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/javascript)
 - [Open Processing](openprocessing.org)
+- [Creative Coding Courses](https://github.com/terkelg/awesome-creative-coding)
 
 I know some others of you have also expressed interest in learning other languages.  I can certainly vouch for [this Google tutorial](https://developers.google.com/edu/python) on learning Python.
 
