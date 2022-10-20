@@ -85,6 +85,10 @@ The course is broken up into 7 modules, comprised of one to three classes per mo
 
 In the interest of keeping a lively and discourse, students are encouraged to note any questions they may have and to be ready to ask them when prompted.  If they wish, they may raise their hand for attention, but please refrain from interrupting the instructor unless necessary.
 
+# <h>Procedures should punch up...</h>
+
+Read Leonard Richardson's Bots should punch up. "You can poke fun at yourself (Stephen Colbert famously said 'There's no status I would not surrender for a joke'), you can make a joke at the expense of someone with higher social status than you, but if you mock someone with lower status, it's not cool." Be sensitive to what your classmates might find offensive, triggering, or violent; be graceful and listen carefully when your work gets called out.
+
 # <h>Course Outline</h>
 
 [Module 1](./course-outline.md#module-1---foundations) - Foundations  
@@ -124,6 +128,22 @@ Specific requirements for assignments:
 - Assignments must be turned in *before class* on the day they're due. Late assignments will not be accepted.  
 
 - Assignments will be graded on their technical mastery and creativity. Occasionally, and as time permits, we'll be critiquing student work in-class, generally in an informal way and on a volunteer basis.
+
+**STATEMENT OF ACADEMIC INTEGRITY**  
+
+Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.  More information can be found on Tisch’s page regarding Academic Integrity (http://tisch.nyu.edu/faculty/academic-integ).
+
+**ACCESSIBILITY** 
+
+Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+
+**WELLNESS**
+
+Your health and safety are a priority at NYU.  If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7  NYUWellness Exchange 212-443-9999. 
+
+**TITLE IX**
+
+Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.
 
 
 # <h>Resources</h>  

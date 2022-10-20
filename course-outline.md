@@ -24,8 +24,9 @@
 ### Module 1 - Foundations  
 - We will introduce ourselves  
 - Go over syllabus
+- Go over course outline
 - Establish a launching point for learning
-- What is p5.js?
+- [What is p5.js?](https://creative-coding.decontextualize.com/first-steps/)
 - Understanding the latest syntax 
     - Arrow functions, var/let/const, `"use strict"`
 - How do I do without `draw`? Be asynchronous
