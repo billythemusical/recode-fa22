@@ -62,7 +62,7 @@ Choose one (1) of the following:
 2. Read the ["Face Generator" chapter](./readings/Code_As_Creative_Medium-Face_Generator.pdf) in [Code As A Creative Medium](./syllabus#textbooks).  Build a "face factory" using Javascript Classes that can generate a new face with each click. The faces should vary along at least three parameters of your choosing. If you're stumped, you can try things like eye color, eye spacing, nose size, nose shape, mouth size, mouth shape, skin tone, hair/no hair, etc. 
 
 You can submit your sketch here (link TBD).  
-⏱ *Approx. time to complete: 1 hour* 
+⏱ *Approx. time to complete: 3 hours* 
 
 
 ### Week 3 - Working with the DOM
@@ -73,22 +73,7 @@ You can submit your sketch here (link TBD).
 
 
 📌 **Assignment 📌 - due before next class:**  
-- Build an interface with buttons, sounds, and user input*  
-
-### Week 6 - Developing Locally
-- Command line interface  
-- Node.js and npm
-- Starting with VSCode and git clone
-- Setting up your own server - ngrok  
-- Saving a JSON small database using nedb
-
-##### 📕 Reading 📕 before next class: 
-- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/)  
-⏱ *Approx. time to complete:* 1 hour  
-
-##### 📌 Assignment 📌, due before next class:  
-- TBD  
-⏱ *Approx. time to complete:*  TBD
+- Build an interface with buttons, sounds, and user input
   
 
 ### Week 4 - Working with External Libraries
@@ -103,23 +88,38 @@ TBD
 
 ### Week 5 - Working with Pixels  
 - Pixel Tutorials [1](https://idmnyu.github.io/p5.js-image/), [2](https://app.spline.design/file/95754110-073c-4370-9bb3-4ed58f22d312)
-- p5.js and OpenCV, tracking
 - Visual effects with Blend Modes  
+- p5.js and OpenCV for tracking
+
 
 📌 **Assignment 📌 - due before next class:** 
 TBD  
 ⏱ **Approx. time to complete:** 
 TBD  
 
+### Week 6 - Developing Locally
+- Command line interface  
+- Send an email  
+- Node.js and npm
+- git clone...
+- VS Code and simple server
+- Server on the web with ngrok  
+
+##### 📕 Reading 📕 before next class: 
+- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/)  
+⏱ *Approx. time to complete:* 1 hour  
+
+##### 📌 Assignment 📌, due before next class:  
+- TBD  
+⏱ *Approx. time to complete:*  TBD
+
 
 ### Week 7 - Working outside the browser
-- Command line interface
-- Send an email 
-- Sending iOS notifications
 - Cron to schedule things
+- Sending iOS notifications
+- Saving a JSON small database using nedb
 - Using a simple server and Twilio SMS services
-- Saving Data w Servers
-- Using basic auth to protect your apps  
+- Using basic browser auth to protect your apps  
 
 📌 **Assignment 📌 - due before next class:** 
 TBD  
@@ -128,5 +128,6 @@ TBD
 
 
 ### Additional Material
-- PWA's and Electron
+- PWA's  
+- Electron
 - ~~Chrome extensions and playing with web pages~~  

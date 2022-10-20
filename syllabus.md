@@ -64,28 +64,36 @@ Furthermore, please do not be late to class.  If you arrive more than 10 minutes
 
 # <h>Grading Policy</h>
 
+**Assignments - 70%**
 
+- One assignment will be given for the 7 modules and each worth 10% of your grade.
+
+**Reading/writing - 10%**  
+
+- Reading will occasionally be assigned with a written blog post response. Collectively, these are worth 10% of your grade.
+
+**Class Participation - 20%**  
+
+- Class participation includes taking part in class discussion and exercises, asking questions, and communicating reliably with the professor.  
+
+>*Please note there will be no "Final" project or exam for this class; consistent weekly participation throughout the term is your best course of action.*
 
 
 # <h>Methodology</h>
 
-The course is roughly 7 weekly modules, comprised of two classes per module.  
+The course is broken up into 7 modules, comprised of one to three classes per module.  Depending on the needs of the class, there will be some flexibility in the number of classes spent on each and where the assignments will land.  Typically, the first class of the module will be presented in a tutorial format with the instructor demonstrating and explaining some aspect of computer programming. The latter module classes will blend tutorial with various exercises like short in-class coding assigments, partner programming, and sharing student work.
 
-1. The first class of the module will be presented in a tutorial format with the instructor demonstrating and explaining some aspect of computer programming. 
-
-2. The second class will blend tutorial with various exercises like short in-class coding assigments and partner programming. 
-
-Students are encouraged to ask questions as they arise and to not be worried about interrupting the instructor.
+In the interest of keeping a lively and discourse, students are encouraged to note any questions they may have and to be ready to ask them when prompted.  If they wish, they may raise their hand for attention, but please refrain from interrupting the instructor unless necessary.
 
 # <h>Course Outline</h>
 
-Week 1 - Foundations  
-Week 2 - Advanced Javascript Concepts  
-Week 3 - Working with the DOM  
-Week 4 - Developing Locally     
-Week 5 - Working with External Libraries  
-Week 6 - Working with Pixels
-Week 7 - Working outside the browser 
+Module 1 - Foundations  
+Module 2 - Advanced Javascript Concepts  
+Module 3 - Working with the DOM  
+Module 4 - Working with External Libraries  
+Module 5 - Working with Pixels     
+Module 6 - Developing Locally
+Module 7 - Working outside the browser  
 
 
 # <h>Pre-Requisites</h>
@@ -154,22 +162,22 @@ I know some others of you have also expressed interest in learning other languag
 
 # <h>Class Dates:</h>
 
-1. Thu Oct 20th  
+1. Thu Oct 20th - Module 1  
 ~~Tue Oct 25th~~ // NO CLASS - Last day for 7W1
-2. Thu Oct 27th  
-3. Tue Nov 1st  
-4. Thu Nov 3rd  
-5. Tue Nov 8th  
-6. Thu Nov 10th  
-7. Tue Nov 15th  
-8. Thu Nov 17th  
-9. Tue Nov 22nd  
+2. Thu Oct 27th - Module 2  
+3. Tue Nov 1st - Module 3  
+4. Thu Nov 3rd - Module 3  
+5. Tue Nov 8th - Module 4  
+6. Thu Nov 10th - Module 4  
+7. Tue Nov 15th - Module 5  
+8. Thu Nov 17th - Module 5  
+9. Tue Nov 22nd - Module 6  
 ~~Thu Nov 24th~~ // NO CLASS - THANKSGIVING
-10. Tue Nov 29th  
-11. Thu Dec 1st  
-12. Tue Dec 6th  
-13. Thu Dec 8th  
-14. Tue Dec 13th    
+10. Tue Nov 29th - Module 6  
+11. Thu Dec 1st - Module 6  
+12. Tue Dec 6th - Module 7  
+13. Thu Dec 8th - Module 7  
+14. Tue Dec 13th - Module 7    
 
 --------------------------------------------------------------------------------------
 
