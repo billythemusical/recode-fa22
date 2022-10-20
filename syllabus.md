@@ -87,13 +87,13 @@ In the interest of keeping a lively and discourse, students are encouraged to no
 
 # <h>Course Outline</h>
 
-Module 1 - Foundations  
-Module 2 - Advanced Javascript Concepts  
-Module 3 - Working with the DOM  
-Module 4 - Working with External Libraries  
-Module 5 - Working with Pixels     
-Module 6 - Developing Locally
-Module 7 - Working outside the browser  
+[Module 1](./course-outline.md#module-1---foundations) - Foundations  
+[Module 2](./course-outline.md#module-2---advanced-javascript-concepts) - Advanced Javascript Concepts  
+[Module 3](./course-outline.md#module-3---working-with-the-dom) - Working with the DOM  
+[Module 4](./course-outline.md#module-4---working-with-external-libraries) - Working with External Libraries  
+[Module 5](./course-outline.md#module-5---working-with-pixels) - Working with Pixels     
+[Module 6](./course-outline.md#module-6---developing-locally) - Developing Locally  
+[Module 7](./course-outline.md#module-7---working-outside-the-browser) - Working outside the browser  
 
 
 # <h>Pre-Requisites</h>
@@ -102,17 +102,14 @@ Generally, Creative Coding is a requirement to take this class. Certain exceptio
 
 # <h>Assignments</h>
 
-<quote>
-*"Every homework assignment is an opportunity for genius."*
-<br>
-Zach Leiberman, computational artist and educator
-</quote>
-<br>
-<br>
 
-While the above quote may fill you with as much anxiety as excitement, think of it as an invitation to bring forth your creative spirit.  They are designed to display your understanding of the material and can hopefully be work that you refer back to as you progress as a programmer.  
+>*"Every homework assignment is an opportunity for genius."*
+>
+> Zach Leiberman, computational artist and educator
 
-- In addition to reading and research posts, you are responsible for **7 weekly assignments**, given at the end of each module, which are **due before the next class**.  There will not be a typical "Final" assignment; each weekly assignment is evenly weighted, so it's important not to fall behind.
+While the above quote may fill you with as much anxiety as excitement, think of these assignments as an invitation to bring forth your creative spirit.  They are designed to display your understanding of the material and can hopefully be work that you refer back to as you progress as a programmer.  
+
+- In addition to reading and research posts, you are responsible for **7 weekly assignments**, typically given at the end of each module and **due before the next class**.  
 
 - Assignments and are meant to take anywhere from 2 - 6 hours to complete and as such will usually be assigned over a weekend.  Not only will you be presenting your code, but also your process through documentation - what inspired you, what resources you used, what mistakes you made along the way, any solutions that you found, etc.
 
@@ -122,7 +119,7 @@ Specific requirements for assignments:
 
 - Each assignment should be accompanied by a blog post that provides documentation of your process in fulfilling the assignment's objectives.  
 
-- You'll need somewhere to upload your completed sketches. If you already have your own web hosting service, like [Digital Ocean](https://www.digitalocean.com/), then use that! If not, I'll show you how to set up a [Neocities](https://neocities.org/) account in class.  
+- You'll need somewhere to upload your completed sketches.  At times, we will use the p5 web editor for this.  For later assignments, you may already have your own web hosting service, like [Digital Ocean](https://www.digitalocean.com/).  If not, I'll show you how to set a [Neocities](https://neocities.org/) account in class.  
 
 - Assignments must be turned in *before class* on the day they're due. Late assignments will not be accepted.  
 
@@ -181,6 +178,6 @@ I know some others of you have also expressed interest in learning other languag
 
 --------------------------------------------------------------------------------------
 
-This syllabus took many cues from Allison Parrish's 2015 Creative Coding syllabus for the IDM program at NYU which can be found [here](https://github.com/IDMNYU/DM-GY-6063B-Creative-Coding).
+This syllabus took many cues from Allison Parrish's 2015 [Creative Coding syllabus](https://github.com/IDMNYU/DM-GY-6063B-Creative-Coding).
 
 

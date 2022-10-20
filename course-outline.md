@@ -21,13 +21,14 @@
 
 # <h>Course Outline</h>
 
-### Week 1 - Foundations  
+### Module 1 - Foundations  
 - We will introduce ourselves  
 - Go over syllabus
 - Establish a launching point for learning
 - What is p5.js?
 - Understanding the latest syntax 
     - Arrow functions, var/let/const, `"use strict"`
+- How do I do without `draw`? Be asynchronous
 
 📕 **Reading - due before class on Thu Oct 27th:**  
 - [Introduction (pgs. 1-41)](./readings/Generative_Design-Introduction.pdf) in [Generative Design](./syllabus.md#textbooks) (don't worry, it's lots of pictures).  Then write a blog post after the reading about your thoughts and inspirations.  
@@ -45,12 +46,13 @@
 
 ✅ *Total time: 2 hrs 2 mins* 
 
-### Week 2 - Advanced Javascript Concepts
+### Module 2 - Advanced Javascript Concepts
 - Using Classes, Callbacks, Promises 
 - Managing arrays of objects
+- Making [patterns](https://openprocessing.org/user/184331?view=sketches&o=48)
 - Accessing and iterating over object data
     - forEach, for i of items, for i in items
-    - Object.keys(), 
+    - Object.keys()
 - Array functions - map, filter, sort, includes, splice, push
 - Using Fetch and asycn/await with try/catch blocks
 - Make API calls with Giphy, Kanye REST
@@ -65,7 +67,7 @@ You can submit your sketch here (link TBD).
 ⏱ *Approx. time to complete: 3 hours* 
 
 
-### Week 3 - Working with the DOM
+### Module 3 - Working with the DOM
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages  
 - Using "vanilla JS" - document.getElementById( )
@@ -76,7 +78,7 @@ You can submit your sketch here (link TBD).
 - Build an interface with buttons, sounds, and user input
   
 
-### Week 4 - Working with External Libraries
+### Module 4 - Working with External Libraries
 - Green Sock
 - dat.GUI
 - Tone.js  
@@ -86,7 +88,7 @@ TBD
 ⏱ **Approx. time to complete:** 
 TBD
 
-### Week 5 - Working with Pixels  
+### Module 5 - Working with Pixels  
 - Pixel Tutorials [1](https://idmnyu.github.io/p5.js-image/), [2](https://app.spline.design/file/95754110-073c-4370-9bb3-4ed58f22d312)
 - Visual effects with Blend Modes  
 - p5.js and OpenCV for tracking
@@ -97,7 +99,7 @@ TBD
 ⏱ **Approx. time to complete:** 
 TBD  
 
-### Week 6 - Developing Locally
+### Module 6 - Developing Locally
 - Command line interface  
 - Send an email  
 - Node.js and npm
@@ -114,7 +116,7 @@ TBD
 ⏱ *Approx. time to complete:*  TBD
 
 
-### Week 7 - Working outside the browser
+### Module 7 - Working outside the browser
 - Cron to schedule things
 - Sending iOS notifications
 - Saving a JSON small database using nedb
