@@ -39,7 +39,7 @@ William "Billy" Bennett
 Email: bennett.billy@nyu.edu
 
 Drop-in hours: Mondays/Fridays 10-11am, [link to make appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
-[Zoom link]('https://nyu.zoom.us/my/billythemusical') unless otherwise arrnaged
+[Zoom link]('https://nyu.zoom.us/my/billythemusical') unless otherwise arranged
 
 # <h>Course Objectives</h>
 
