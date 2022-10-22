@@ -159,14 +159,14 @@ This class does not have an official textbook, although a number of assignments 
 
 Here is also a great reference text from the creators of p5.js and Processing, respectively:
 
-[Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772/), by Lauren McCarthy, Ben Fry, and Casey Reas  
-- [NYU Library link](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph004490802) or [for purchase](https://www.oreilly.com/library/view/make-getting-started/9781457186769/) 
+- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772/), by Lauren McCarthy, Ben Fry, and Casey Reas  
+    - ([NYU Library link](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph004490802) or [for purchase](https://www.oreilly.com/library/view/make-getting-started/9781457186769/))
 
 ### On The Web  
 
 What's great about *Code as a Creative Medium* and *Generative Design* is that they have online components with code examples that you can explore:
-- [link to code as a creative medium github]()
-- [link to generative design website]()
+- [link to code as a creative medium github](https://github.com/CodeAsCreativeMedium)
+- [link to generative design website](https://github.com/jediahkatz/generative-design)
 
 Here are a number of handy resources we will be using throughout the class:  
 

@@ -28,8 +28,8 @@
 - Establish a launching point for learning
 - [What is p5.js?](https://creative-coding.decontextualize.com/first-steps/)
 - Understanding the latest syntax 
-    - Arrow functions, var/let/const, `"use strict"`
-- How do I do without `draw`? Be asynchronous
+    - Arrow functions, var/let/const
+- How do I do without `draw`? Using `setTimeout`
 
 📕 **Reading - due before class on Thu Oct 27th:**  
 - [Introduction (pgs. 1-41)](./readings/Generative_Design-Introduction.pdf) in [Generative Design](./syllabus.md#textbooks) (don't worry, it's lots of pictures).  Then write a blog post after the reading about your thoughts and inspirations.  
@@ -42,10 +42,10 @@
 - 2. Please add your personal blog link to [this form](https://forms.gle/kw5Hh3EJVJwnMAf6A).  
 ⏱ *Approx. time to complete: 2 minutes*
 
-- 3. Refactor an existing p5.js sketch using arrow functions and callbacks.
-⏱ *Approx. time to complete: 1 hour* 
+- 3. Refactor an existing p5.js sketch using `let`, `const`, and arrow functions `=>`.  Remember not to change the built-in p5 functions though.  Make a blog post with the link to your p5 sketch and turn in your assignment on the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9).
+⏱ *Approx. time to complete: 2 hours* 
 
-✅ *Total time: 2 hrs 2 mins* 
+✅ *Total time: 3 hrs 2 mins* 
 
 ### Module 2 - Advanced Javascript Concepts
 - Using Classes, Callbacks, Promises 
