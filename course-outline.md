@@ -23,7 +23,7 @@
 - 2. Please add your personal blog link to [this form](https://forms.gle/kw5Hh3EJVJwnMAf6A).  
 ⏱ *Approx. time to complete: 2 minutes*
 
-- 3. Refactor an existing p5.js sketch using `let`, `const`, and arrow functions `=>`.  Remember not to change the built-in p5 functions though.  Make a blog post with the link to your p5 sketch and turn in your assignment on the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9).
+- 3. Read the [addendum to class 1](./readings/addendum-class-1.md).  Then refactor an existing p5.js sketch using `let`, `const`, and arrow functions `=>`.  Remember not to change the built-in p5 functions though.  Make a blog post of your process with the link to your p5 sketch and turn in your assignment on the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9).
 ⏱ *Approx. time to complete: 2 hours* 
 
 ✅ *Total time: 3 hrs 2 mins* 
