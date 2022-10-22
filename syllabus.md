@@ -1,3 +1,22 @@
+<style>
+    h {
+        color: hotpink;
+        font-family: monospace;
+    }
+
+    body {
+        font-family: verdana;
+        background: "lightblue";
+        font-size: 12pt;
+    }
+    quote {
+        font-family: arial;
+        font-size: 10pt;
+        text-align: center;
+
+    }
+</style>
+
 ![An Apple II computer with external disk drives is set among a glowing-pink cat, who is lying down on the left, and a multi-colored succulent in a black pot on the right. There is a neon pink grid of perspective squares comprising the floor beneath and low-poly digitized mountain ranges in the background with neon blue trim lines. The words Re:Code are centered at the top in a large white font that is in a stylized digital form.](images/synthwave-wallpaper-neural-medium.jpg)
 
 # <h>Syllabus</h> 
@@ -19,8 +38,8 @@ William "Billy" Bennett
 
 Email: bennett.billy@nyu.edu
 
-Drop-in hours: Mondays/Fridays 10-11am, [link to make appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
-[Zoom link]('https://nyu.zoom.us/my/billythemusical') unless otherwise arrnaged
+Drop-in hours: Mondays/Fridays 10-11am, 
+[Zoom link]('https://nyu.zoom.us/my/billythemusical') unless otherwise arranged
 
 # <h>Course Objectives</h>
 
@@ -37,7 +56,7 @@ This course is for you to attain more competency of the concepts covered here.  
 
 Unless otherwise stated, I adhere to a "laptops down" mentality while I am lecturing or other students are presenting their work.  Feel free to take notes on paper and write down questions to ask when the floor is opened. 
 
-# <h> Attendence Policy </h> 
+# <h> Attendance Policy </h>  
 
 This is a 7-week course with only 14 class meetings.  As such, if you have more than 2 unexcused absences, I will be forced to drop your grade one letter per additional absence.  
 
@@ -62,7 +81,7 @@ Furthermore, please do not be late to class.  If you arrive more than 10 minutes
 
 # <h>Methodology</h>
 
-The course is broken up into 7 modules, comprised of one to three classes per module.  Depending on the needs of the class, there will be some flexibility in the number of classes spent on each and where the assignments will land.  Typically, the first class of the module will be presented in a tutorial format with the instructor demonstrating and explaining some aspect of computer programming. The latter module classes will blend tutorial with various exercises like short in-class coding assigments, partner programming, and sharing student work.
+The course is broken up into 7 modules, comprised of one to three classes per module.  Depending on the needs of the class, there will be some flexibility in the number of classes spent on each and where the assignments will land.  Typically, the first class of the module will be presented in a tutorial format with the instructor demonstrating and explaining some aspect of computer programming. The latter module classes will blend tutorial with various exercises like short in-class coding assignments, partner programming, and sharing student work.
 
 In the interest of keeping a lively and discourse, students are encouraged to note any questions they may have and to be ready to ask them when prompted.  If they wish, they may raise their hand for attention, but please refrain from interrupting the instructor unless necessary.
 

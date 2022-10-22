@@ -23,7 +23,7 @@ function draw() {
 }
 
 function inc() {  
-  x++; // incremenet the x value by 1 each time
+  x++; // increment the x value by 1 each time
   setTimeout(inc, 10) // run the inc() function again in 10 milliseconds
 }
 ```
@@ -53,7 +53,7 @@ function inc(a = 5) { // a is declared with the function
 }
 ```
 
-What's nice about this code is that it takes advantage of a Javascript shorthand and scope.  We give `a` a value at the time we declare the function and even if we don't pass an argument to `inc`, `a` will still have the default value of `5`. You can do this with any additional arguments as long as they are seperated by a comma.
+What's nice about this code is that it takes advantage of a Javascript shorthand and scope.  We give `a` a value at the time we declare the function and even if we don't pass an argument to `inc`, `a` will still have the default value of `5`. You can do this with any additional arguments as long as they are separated by a comma.
 
  > Note that `a` is not a global variable and has a limited scope that can only be used inside of the function `inc`.  Programmers often declare variables in this way to keep from "polluting the name space," which is a programming phrase that describes a situation where variable names could potentially clash with one another within your application or with the built-in browser functions and variables.
 
