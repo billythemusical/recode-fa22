@@ -102,6 +102,7 @@ Drop-in hours tomorrow and Monday morning: [Sign up here](https://calendar.googl
 Links from class:
 
 - [Simple Magic 8 Ball p5 sketch from class](https://editor.p5js.org/rostaccoli/sketches/ohTtLdCBm)
+- [HTML Input tag with placeholder attribute](https://www.w3schools.com/tags/att_input_placeholder.asp)
 - [Reference for p5 Element](https://p5js.org/reference/#/p5.Element)
 - [Proton VPN](https://protonvpn.com/)
 

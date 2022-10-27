@@ -39,7 +39,7 @@
 
 📌 **Assignment 📌 - due before next class on Tue Nov 1:**  
 
-Using this [Magic 8 Ball API](https://8ball.delegator.com/), make a Magic 8 Ball interface.  Your sketch must adhere to the following constraints:
+Using this [Magic 8 Ball API](https://8ball.delegator.com/), make a Magic 8 Ball interface.  PLease mind the following constraints:
 1. There must be a place where the user can type their question.
 2. Use `setTimeout` to introduce the idea of waiting and suspense.  There must be some period of anticipation once the question is asked, like an interesting "loading..." screen or dialog.  
 3. Use the `fetch` API and `async/await` functions in your API call and set up a `try/catch` block to catch any errors.
