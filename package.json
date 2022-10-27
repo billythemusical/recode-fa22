@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "harp": "^0.46.0"
+  },
+  "scripts": {
+    "harp":"harp . --port 9000"
+  }
+}

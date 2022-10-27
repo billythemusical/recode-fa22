@@ -10,7 +10,7 @@
 - [What is p5.js?](https://creative-coding.decontextualize.com/first-steps/)
 - Understanding the latest syntax 
     - Arrow functions, var/let/const
-- How do I do without `draw`? Using `setTimeout`
+- How do I *do* without `draw`? Using `setTimeout`
 
 📕 **Reading - due before class on Thu Oct 27th:**  
 - [Introduction (pgs. 1-41)](./readings/Generative_Design-Introduction.pdf) in [Generative Design](./syllabus.md#textbooks) (don't worry, it's lots of pictures).  Then write a blog post after the reading about your thoughts and inspirations.  
@@ -29,24 +29,24 @@
 ✅ *Total time: 3 hrs 2 mins* 
 
 ### Module 2 - Advanced Javascript Concepts
-- Using Classes, Callbacks, Promises 
-- Managing arrays of objects
-- Making [patterns](https://openprocessing.org/user/184331?view=sketches&o=48)
+- Using Fetch and async/await with try/catch blocks  
+- Make API calls with Magic 8 Ball, Giphy
+- Using Promises and callbacks 
 - Accessing and iterating over object data
     - forEach, for i of items, for i in items
     - Object.keys()
-- Array functions - map, filter, sort, includes, splice, push
-- Using Fetch and async/await with try/catch blocks
-- Make API calls with Giphy, Kanye REST
+- Managing arrays of objects
 
 📌 **Assignment 📌 - due before next class on Tue Nov 1:**  
 
-Choose one (1) of the following:
-1. Find a publicly available API *that you have not used before*. Use at least three of the API's methods, along with `fetch` and `async/await` functions, to build a webpage that can retrieve and display its data in a creative or useful way.  Catch any errors using a `try/catch` block.
-2. Read the ["Face Generator" chapter](./readings/Code_As_Creative_Medium-Face_Generator.pdf) in [Code As A Creative Medium](./syllabus#textbooks).  Build a "face factory" using Javascript Classes that can generate a new face with each click. The faces should vary along at least three parameters of your choosing. If you're stumped, you can try things like eye color, eye spacing, nose size, nose shape, mouth size, mouth shape, skin tone, hair/no hair, etc. 
+Using this [Magic 8 Ball API](https://8ball.delegator.com/), make a Magic 8 Ball interface.  Your sketch must adhere to the following constraints:
+1. There must be a place where the user can type their question.
+2. Use `setTimeout` to introduce the idea of waiting and suspense.  There must be some period of anticipation once the question is asked, like an interesting "loading..." screen or dialog.  
+3. Use the `fetch` API and `async/await` functions in your API call and set up a `try/catch` block to catch any errors.
+4. Display the response from the API.
 
 You can submit your sketch here (link TBD).  
-⏱ *Approx. time to complete: 3 hours* 
+⏱ *Approx. time to complete: 3 hours*  
 
 
 ### Module 3 - Working with the DOM
@@ -109,9 +109,3 @@ TBD
 TBD  
 ⏱ **Approx. time to complete:** 
 TBD  
-
-
-### Additional Material
-- PWA's  
-- Electron
-- ~~Chrome extensions and playing with web pages~~  

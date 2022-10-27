@@ -6,7 +6,11 @@ By simplifying many the complex and esoteric operations, p5.js provides a more i
 
 *** 
 
-One of the goals of this class is to help you break out of the p5.js bubble and be able to adapt to the world of 'vanilla,' aka plain, Javascript.  Let's look at the code we wrote today in class which uses one of Javascript's many built-in functions, namely `setTimeout`.
+One of the goals of this class is to help you break out of the p5.js bubble and be able to adapt to the world of 'vanilla,' aka plain, Javascript.  Let's look at the code we wrote today in class which uses one of Javascript's many built-in functions, namely `setTimeout`.  
+
+`setTimeout` first takes two arguments: a function and a delay time in milliseconds.  In the code below, we use `setTimeout` to increase the `x` value that our ellipse uses and then to call the `inc` function, which is just a short nickname for 'increment'.  You can see that we are creating a loop by calling the function `inc` as the last line of the `inc` function.  
+
+>The `draw` loop in p5 functions in a similar manner, but recursively calls uses the `requestAnimationFrame` instead of `setTimeout`.
 
 ```js
 let x = 0  // variable we will use to move our ellipse
@@ -28,7 +32,7 @@ function inc() {
 }
 ```
 
-`setTimeout` is a built-in Javascript method that is available in any web browser.  The line below is from the [MDN documentation for `setTimeout`](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout) which tells us that it takes the following arguments: a function reference, integer value for the delay time in milliseconds, and any additional arguments you wish. These additional parameters are passed into the function that we supplied as our first argument. 
+The code below is from the [MDN documentation for `setTimeout`](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout) which tells us that it takes the following arguments: a function reference, integer value for the delay time in milliseconds, and any additional arguments you wish. These additional parameters are passed into the function that we supplied as our first argument. 
 
 ![After functionRef and delay, setTimeout passes the remaining parameters to the functionRef](../images/setTimeout-additional-arguments.jpg)  
 
@@ -43,10 +47,10 @@ function inc(a) {
     setTimeout(inc, 200, a) // run inc again after 20 ms and pass in the additional argument a, essentially inc(a)
 }
 ```
-If you ran this code, you'll notice that you get an error. 👾 That's because we did not first declare `a` anywhere in our code.  While we could simply say, `let a = 20` before we declare our function, there is a more streamlined way to fix the error.
+If you ran this code, you'll notice that you get an error. 👾 That's because we did not first declare `a` anywhere in our code.  While we could simply say, `let a = 20` before we declare our function, but there is a more streamlined way to fix the error.
 
 ```js
-function inc(a = 5) { // a is declared with the function
+function inc(a = 5) { // declare a default value for a
     x += a // increase x by a
     a = x // set a equal to the increased x value
     setTimeout(inc, 200, a) // pass a back into inc
