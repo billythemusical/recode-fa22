@@ -101,7 +101,12 @@ Drop-in hours tomorrow and Monday morning: [Sign up here](https://calendar.googl
 
 Links from class:
 
-- [p5.js Simple Magic 8 Ball with Fetch](https://editor.p5js.org/rostaccoli/sketches/n4KL92eKQ)
+- [Simple Magic 8 Ball p5 sketch from class](https://editor.p5js.org/rostaccoli/sketches/ohTtLdCBm)
+- [Reference for p5 Element](https://p5js.org/reference/#/p5.Element)
+- [Proton VPN](https://protonvpn.com/)
+
+Additional Links:  
+- [p5.js Simple Magic 8 Ball with alert if no question](https://editor.p5js.org/rostaccoli/sketches/n4KL92eKQ)
 - [p5.js Animated GIFs with GIPHY API Call](https://editor.p5js.org/rostaccoli/sketches/FWnxSy_aw)
 - [Get an API key at GIPHY Developer Website](https://developers.giphy.com/dashboard/)
 - [Coding Train Video for Fetch](https://www.youtube.com/watch?v=tc8DU14qX6I&ab_channel=TheCodingTrain) with [examples](https://github.com/CodingTrain/Intro-to-Data-APIs-JS)
