@@ -1,5 +1,5 @@
 # recode-fa22
- Welcome!
+ Welcome to Re:Code!
 
 Take a look at the [syllabus](./syllabus.md)  
 Check the [course outline](./course-outline.md)  
