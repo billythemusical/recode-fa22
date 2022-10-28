@@ -10,7 +10,7 @@ One of the goals of this class is to help you break out of the p5.js bubble and 
 
 `setTimeout` first takes two arguments: a function or 'callback' and a delay time in milliseconds. The delay time is how long `setTimeout` will wait until it executes or 'calls' the callback function. 
 
-In the code below, we use `setTimeout` to first increase the `x` value for an ellipse and then, after the delay time, call the `inc` function, which is just a short nickname for 'increment'.  You can see that we are creating a loop by calling the function `inc` in the last line of the `inc` function.  
+In the code below, we use `setTimeout` to first increase the `x` value for an ellipse and then, after the delay time, call the `inc` function, which is just a short nickname for 'increment'.  You can see that we are creating a loop by calling the function `inc` in the last line of the `inc` function.  `
 
 >The `draw` loop in p5 functions in a similar manner, but recursively calls uses the `requestAnimationFrame` instead of `setTimeout`.
 
