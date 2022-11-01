@@ -60,7 +60,7 @@ You can submit your sketch here (link TBD).
 - Print out the code and comment each line with a pencil. See if you can explain what is happening in the code and how it works. Document your process on your blog and write a few paragraphs about your experience.
 ⏱ *Approx. time to complete: 1.5 hours* 
 
-📌 **Assignment(s) - due before class due Tue Nov 8th:**    
+📌 **Assignments - due before class due Tue Nov 8th:**    
 - Build an interface with buttons, sounds, user input, and an animated p5 canvas. 
 ⏱ *Approx. time to complete: 4 hours* 
 
