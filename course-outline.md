@@ -56,8 +56,8 @@ You can submit your sketch here (link TBD).
 - Mobile first design, making mobile interfaces
 
 📕 **Reading - due before class on Thu Nov 3rd:**  
-- Pick a pattern from the creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331),  
-- Print out the code and comment each line with a pencil. See if you can explain what is happening in the code and how it works. Document your process on your blog and write a few paragraphs about your experience.
+- Pick a patterned sketch from these creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331), [takawo](https://openprocessing.org/user/6533?view=sketches&o=48) or feel free to find your own!
+- Print out the code and comment each line with a pencil. See if you can explain what is happening in the code and how it works, as if the person reading it was a beginner in coding.  Document your process on your blog and write a few paragraphs about your experience.
 ⏱ *Approx. time to complete: 1.5 hours* 
 
 📌 **Assignments - due before class due Tue Nov 8th:**    

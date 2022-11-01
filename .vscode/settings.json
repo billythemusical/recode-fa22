@@ -6,5 +6,8 @@
         "Reas",
         "Tisch",
         "verdana"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
