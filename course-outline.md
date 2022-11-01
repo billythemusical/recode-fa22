@@ -51,14 +51,20 @@ You can submit your sketch here (link TBD).
 
 ### Module 3 - Working with the DOM
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
-- Putting a p5 sketch in 'regular' web pages  
+- Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
 - Using "vanilla JS" - document.getElementById( )
 - Mobile first design, making mobile interfaces
 
+📕 **Reading - due before class on Thu Nov 3rd:**  
+- Pick a pattern from the creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331),  
+- Print out the code and comment each line with a pencil. See if you can explain what is happening in the code and how it works. Document your process on your blog and write a few paragraphs about your experience.
+⏱ *Approx. time to complete: 1.5 hours* 
 
-📌 **Assignment 📌 - due before next class:**  
-- Build an interface with buttons, sounds, and user input
-  
+📌 **Assignment(s) - due before class due Tue Nov 8th:**    
+- Build an interface with buttons, sounds, user input, and an animated p5 canvas. 
+⏱ *Approx. time to complete: 4 hours* 
+
+
 
 ### Module 4 - Working with External Libraries
 - Green Sock

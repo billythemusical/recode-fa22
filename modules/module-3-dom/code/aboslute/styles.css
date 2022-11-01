@@ -1,0 +1,27 @@
+html, body {
+    height: 100%
+}
+
+body {
+    margin: 0px;
+}
+
+div {
+    position: absolute;
+    top: 210px;
+    left: 200px;
+}
+
+button {
+    position: absolute;
+    /* background-color: transparent; */
+    top: 230px;
+    left: 200px;
+}
+
+input {
+    position: absolute;
+    /* background-color: transparent; */
+    top: 250px;
+    left: 200px;
+}
