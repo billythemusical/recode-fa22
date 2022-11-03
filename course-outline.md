@@ -64,13 +64,20 @@ You can submit your sketch here (link TBD).
 ⏱ *Approx. time to complete: 1.5 hours* 
 
 📌 **Assignments - due before class due Tue Nov 8th:**    
-- Taking inspiration from [vintage analog control panels](https://control--panel.com/image/154363919057), imagine a (perhaps completely unrealistic) interface for controlling some thing or someone. Like an interface for making your parents give you whatever you wanted (be nice!) or a control panel for sending commands to the government (IRS, give me money!) or an interface for making a famous person sing you a song (or apologize and get off social media forever!).  
-- Start by drawing a quick prototype on paper first. Would you use buttons, text inputs, images, sliders?  How would the inputs be labeled?  
-- Perhaps your interface has its own voice, like a twisted Siri or Alexa ([p5 speech](https://idmnyu.github.io/p5.js-speech/) anyone?)  
-- Do we have a picture or slide show of what/who you are controlling?  Can we target their location from outer space and what would that look like?  
-- Make the interface using a p5 canvas placed in the center of the page, with any combination of buttons, sounds, user input, and an animated p5 canvas. Upload it to your Neocities page and share the link in your blog with any documentation that you'd like to provide about your process.
+
+Taking inspiration from [vintage analog control panels](https://control--panel.com/image/154363919057), imagine a (perhaps completely unrealistic) interface for controlling some thing or someone. Like an interface for making your parents give you whatever you wanted (be nice!) or a control panel for sending commands to the government (IRS, give me money!) or an interface for making a famous person sing you a song (or apologize and get off social media forever!).  
+- Start by drawing a quick prototype on paper first.
+- Some quick thoughts on design: 
+    - Is this interface for you or for others to use?
+    - What types of inputs will you use - buttons, text, sliders?  How will the inputs be labeled?  
+    - Perhaps your interface has its own voice, like a twisted Siri or Alexa ([p5 speech](https://idmnyu.github.io/p5.js-speech/) anyone?)  
+    - Do you want to display a picture or video of what/who you are controlling?  For example, can we pretend to target their location from outer space and what would that look like?  
+- Make the interface using a p5 canvas that is placed on an HTML page, using one of the methods we looked at in class. Upload your sketch to your Neocities site that we made in class.  
+- Share the link in your blog with any documentation that you'd like to provide about your process.
 ⏱ *Approx. time to complete: 4 hours* 
 
+Relevant videos:
+- 
 
 ### Module 4 - Working with External Libraries
 - Green Sock
