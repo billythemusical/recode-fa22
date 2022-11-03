@@ -53,10 +53,8 @@ You can submit your sketch here (link TBD).
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
 - Using "vanilla JS" - document.getElementById( )
-- Using a text editor and local server using [VS Code](https://code.visualstudio.com/download) and [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
-- Uploading to the web - making a Neocities page for your sketches.
-- The Browser as design tool.
-    - Mobile first design, making mobile interfaces
+- Using a text editor [VS Code](https://code.visualstudio.com/download) and a local server [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
+- Uploading to the web using [Neocities](https://neocities.org/).
 
 📕 **Reading - due before class on Thu Nov 3rd:**  
 - Pick a patterned sketch from these creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331), [takawo](https://openprocessing.org/user/6533?view=sketches&o=48) or feel free to find your own!  The key is to find something that is somewhat understandable at first glance but would also propose a challenge to figure it out completely.
