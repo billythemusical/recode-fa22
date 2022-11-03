@@ -53,17 +53,23 @@ You can submit your sketch here (link TBD).
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
 - Using "vanilla JS" - document.getElementById( )
-- Mobile first design, making mobile interfaces
+- Using a text editor and local server using [VS Code](https://code.visualstudio.com/download) and [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
+- Uploading to the web - making a Neocities page for your sketches.
+- The Browser as design tool.
+    - Mobile first design, making mobile interfaces
 
 📕 **Reading - due before class on Thu Nov 3rd:**  
-- Pick a patterned sketch from these creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331), [takawo](https://openprocessing.org/user/6533?view=sketches&o=48) or feel free to find your own!
-- Print out the code and comment each line with a pencil. See if you can explain what is happening in the code and how it works, as if the person reading it was a beginner in coding.  Document your process on your blog and write a few paragraphs about your experience.
+- Pick a patterned sketch from these creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331), [takawo](https://openprocessing.org/user/6533?view=sketches&o=48) or feel free to find your own!  The key is to find something that is somewhat understandable at first glance but would also propose a challenge to figure it out completely.
+- Print out the code and comment each line with a pencil. See if you can explain what is happening and how, as if the person reading it was a beginner in coding.  Was there something you didn't understand?  What resources did you use to find out about it, i.e. MDN Docs, Stack Overflow, the p5 reference, Google??  Did you learn a new function or technique?  Was the code easy to read or was it cryptic?  Document your process on your blog and write a few paragraphs about your experience.  
 ⏱ *Approx. time to complete: 1.5 hours* 
 
 📌 **Assignments - due before class due Tue Nov 8th:**    
-- Build an interface with buttons, sounds, user input, and an animated p5 canvas. 
+- Taking inspiration from [vintage analog control panels](https://control--panel.com/image/154363919057), imagine a (perhaps completely unrealistic) interface for controlling some thing or someone. Like an interface for making your parents give you whatever you wanted (be nice!) or a control panel for sending commands to the government (IRS, give me money!) or an interface for making a famous person sing you a song (or apologize and get off social media forever!).  
+- Start by drawing a quick prototype on paper first. Would you use buttons, text inputs, images, sliders?  How would the inputs be labeled?  
+- Perhaps your interface has its own voice, like a twisted Siri or Alexa ([p5 speech](https://idmnyu.github.io/p5.js-speech/) anyone?)  
+- Do we have a picture or slide show of what/who you are controlling?  Can we target their location from outer space and what would that look like?  
+- Make the interface using a p5 canvas placed in the center of the page, with any combination of buttons, sounds, user input, and an animated p5 canvas. Upload it to your Neocities page and share the link in your blog with any documentation that you'd like to provide about your process.
 ⏱ *Approx. time to complete: 4 hours* 
-
 
 
 ### Module 4 - Working with External Libraries
