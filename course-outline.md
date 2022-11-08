@@ -61,7 +61,7 @@ You can submit your sketch here (link TBD).
 - Print out the code and comment each line with a pencil. See if you can explain what is happening and how, as if the person reading it was a beginner in coding.  Was there something you didn't understand?  What resources did you use to find out about it, i.e. MDN Docs, Stack Overflow, the p5 reference, Google??  Did you learn a new function or technique?  Was the code easy to read or was it cryptic?  Document your process on your blog and write a few paragraphs about your experience.  
 ⏱ *Approx. time to complete: 1.5 hours* 
 
-📌 **Assignments - due before class due Tue Nov 8th:**    
+📌 **Assignments - due before class due Thu Nov 10th:**    
 
 Taking inspiration from [vintage analog control panels](https://control--panel.com/image/154363919057), imagine a (perhaps completely unrealistic) interface for controlling some thing or someone. Like an interface for making your parents give you whatever you wanted (be nice!) or a control panel for sending commands to the government (IRS, give me money!) or an interface for making a famous person sing you a song (or apologize and get off social media forever!).  
 - Start by drawing a quick prototype on paper first.
