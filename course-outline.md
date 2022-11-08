@@ -81,7 +81,7 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 - dat.GUI
 - Tone.js  
 
-[Link to Module 4](./modules/module-4-external-libraries/module-4-external-libraries) class notes.
+[Link to Module 4](./modules/module-4-external-libraries/module-4-external-libraries.md) class notes.
 
 📌 **Assignment 📌 - due before next class:** 
 TBD  
