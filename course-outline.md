@@ -78,9 +78,12 @@ Relevant videos:
 - 
 
 ### Module 4 - Working with External Libraries
+
 - Green Sock
 - dat.GUI
 - Tone.js  
+
+[Link to Module 4](./modules/module-4-external-libraries/module-4-external-libraries) class notes.
 
 📌 **Assignment 📌 - due before next class:** 
 TBD  
