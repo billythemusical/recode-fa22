@@ -74,8 +74,6 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 - Share the link in your blog with any documentation that you'd like to provide about your process.
 ⏱ *Approx. time to complete: 4 hours* 
 
-Relevant videos:
-- 
 
 ### Module 4 - Working with External Libraries
 
