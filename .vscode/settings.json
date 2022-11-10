@@ -9,5 +9,12 @@
     ],
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
 }
