@@ -15,6 +15,7 @@
         ".vscode/**",
         "**/*.scss",
         "**/*.sass",
-        "**/*.ts"
+        "**/*.ts",
+        "node_modules/**",
     ],
 }
