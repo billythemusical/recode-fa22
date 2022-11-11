@@ -156,3 +156,9 @@ function displayNotesGrid() {
 function keyPressed(key) {
     if(key.keyCode == 32) pause = !pause
 }
+
+// This will allow us to toggle ball movement on mobile
+// as mousePressed function doubles as touchStart()
+function mousePressed() {
+    pause = !pause
+}
