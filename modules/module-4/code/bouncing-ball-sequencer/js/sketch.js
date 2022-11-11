@@ -162,8 +162,8 @@ function keyPressed(key) {
 }
 
 // This will allow us to toggle ball movement on mobile
-// as mousePressed function doubles as touchStart()
-function mousePressed() {
+// even though Safari won't play the sounds 👿
+function touchStarted() {
     pause = !pause
 }
 
