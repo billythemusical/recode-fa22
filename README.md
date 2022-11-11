@@ -1,7 +1,7 @@
 # recode-fa22
  Welcome to Re:Code!
 
-- Find the course materials in the [course repo](https://github.com/billythemusical/record-fa22)  
+- Find the course materials in the [course repo](https://github.com/billythemusical/recode-fa22)  
 - Make sure to read and reference the [syllabus](./syllabus.md)  
 - Follow the [course outline](./course-outline.md) for updates
 - And check our [class dates](./syllabus.md#class-dates)  
