@@ -153,8 +153,12 @@ function displayNotesGrid() {
     }
 }
 
+// Set up the spacebar to pause/unpause
 function keyPressed(key) {
-    if(key.keyCode == 32) pause = !pause
+    if (key.keyCode == 32) {
+        key.preventDefault() // prevent the default behavior which scrolls the page
+        pause = !pause
+    }
 }
 
 // This will allow us to toggle ball movement on mobile
@@ -162,3 +166,4 @@ function keyPressed(key) {
 function mousePressed() {
     pause = !pause
 }
+
