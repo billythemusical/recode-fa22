@@ -75,14 +75,15 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 ⏱ *Approx. time to complete: 4 hours* 
 
 
-### Module 4 - Working with External Libraries
+### Module 4 - Working with External Libraries 
+[(class notes)](./modules/module-4/module-4-external-libraries.md)
 
 - Green Sock
 - Tone.js 
 - dat.GUI
  
 
-[Link to Module 4](./modules/module-4-external-libraries/module-4-external-libraries.md) class notes.
+
 
 Code Examples:
 - [gsap basics](./modules/module-4/code/gsap/index.html)
@@ -100,7 +101,8 @@ Depends on how far behind you are. 🙃
 👾 **Extra Credit:** 👾  
 Explore and/or build something with any of the external libraries we looked at in class or include your own.  Try to get them on your computer and serve them locally using VS Code.  
 
-### [Module 5 - Working with Pixels](./modules/module-5/module-5-working-with-pixels)  
+### Module 5 - Working with Pixels 
+[(class notes)](./modules/module-5/module-5-working-with-pixels)  
 - Working with the pixel array - [IDM Tutorial](https://idmnyu.github.io/p5.js-image/)
 - [3D pixel array graphic](https://my.spline.design/16x4pixeldensityrgba-4fa1ebb73d2828ebca6c7446f9ac31dc/)
 - Visual effects in p5 with [Blend Modes](https://p5js.org/reference/#/p5/blendMode) and [Filters](https://p5js.org/reference/#/p5/filter) 
