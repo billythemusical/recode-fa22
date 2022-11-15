@@ -52,7 +52,7 @@ const sequence2 = [0, 2, 5, 6]
 
 function setup() {
     const can = createCanvas(400, 400);
-    can.parent('container')
+    can.parent('sketch-container')
     textAlign(CENTER)
     textSize(20)
 
@@ -161,9 +161,23 @@ function keyPressed(key) {
     }
 }
 
+
+
 // This will allow us to toggle ball movement on mobile
 // even though Safari won't play the sounds 👿
-function touchStarted() {
+function touchEnded() {
     pause = !pause
+}
+
+function touchStared() {
+    return
+}
+
+function mousePressed() {
+    return
+}
+
+function mouseReleased() {
+    return
 }
 

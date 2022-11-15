@@ -1,0 +1,20 @@
+# Working with pixels
+
+One cool thing about working with digital media in code is that you have much more granular control over the data.  So not only can you display images on the screen, but you can manipulate the raw data to your liking.
+
+First let's understand what it looks like to manipulate each pixel in the array.  Check out this [IDM Tutorial on Image Processing](https://idmnyu.github.io/p5.js-image/index.html).  This will show us (or remind us) how to loop through an array of RGBA pixel values based on an X/Y coordinate system. 
+
+[Link](https://my.spline.design/16x4pixeldensityrgba-4fa1ebb73d2828ebca6c7446f9ac31dc/) to pixel array visualization.
+
+There are also many built-in p5 functions that do some pixel operations for us like [```blendMode()```](https://p5js.org/reference/#/p5/blendMode) and [```filter()```](https://p5js.org/reference/#/p5/filter).  
+
+# OpenCV
+
+OpenCV is a computer vision library that is the basis for much of the advances in self-driving cars and many surveillance tools we find around us today.  Many of these operations are derived from some basic, and some complex, mathematical operations performed on pixel arrays.  
+
+Let's take a look at some these [cv examples](https://kylemcdonald.github.io/cv-examples/) that have been ported over to p5 by Kyle McDonald and discuss how we might include them in our work.
+
+# Glitch
+
+While stochastic methods have existed for some time in other mediums, the art of the glitch is where digital mediums shine.  This is because, as we have outlined above, digital mediums give you more control over where, when, and how you insert some glorious noise into the process.  The [p5.glitch](https://p5.glitch.me/) library by [Ted Davis](https://teddavis.org/) makes glitching accessible within the p5 framework.
+

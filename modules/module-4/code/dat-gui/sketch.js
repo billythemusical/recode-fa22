@@ -2,6 +2,8 @@
 
 Dat-GUI v0.6.5 - https://github.com/dataarts/dat.gui/releases?page=2#:~:text=Compare-,0.6.5,Add%20Browserify%20support.%20%23137,-Assets
     API Docs - https://github.com/dataarts/dat.gui/blob/master/API.md
+
+    Post on saving dat-GUI settings to JSON - https://stackoverflow.com/questions/22730039/saving-parameters-with-dat-gui-seems-broken
 */
 
 

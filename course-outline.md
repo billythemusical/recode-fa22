@@ -83,21 +83,37 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 
 [Link to Module 4](./modules/module-4-external-libraries/module-4-external-libraries.md) class notes.
 
-📌 **Assignment 📌 - due before next class:** 
+📌 **Assignment 📌 - due Tue Nov 14th:**  
+Catch up on old assignments!   
+
+⏱ **Approx. time to complete:**  
+Depends on how far behind you are. 🙃 
+
+👾 **Extra Credit:** 👾  
+Explore and/or build something with any of the external libraries we looked at in class or include your own.  Try to get them on your computer and serve them locally using VS Code.  
+
+### [Module 5 - Working with Pixels](./modules/module-5/module-5-working-with-pixels)  
+- Working with the pixel array - [IDM Tutorial](https://idmnyu.github.io/p5.js-image/)
+- [3D pixel array graphic](https://my.spline.design/16x4pixeldensityrgba-4fa1ebb73d2828ebca6c7446f9ac31dc/)
+- Visual effects in p5 with [Blend Modes](https://p5js.org/reference/#/p5/blendMode) and [Filters](https://p5js.org/reference/#/p5/filter) 
+- [Cv-examples in p5.js](https://kylemcdonald.github.io/cv-examples/) by Kyle McDonald
+- Glitching with [p5.glitch](https://github.com/ffd8/p5.glitch)
+
+Link to code examples:  
+- [Blend Mode](./modules/module-5/code/blend-mode/index.html)
+- [Filter](./modules/module-5/code/filter-and-blend/index.html)
+
+📕 **Reading - due before class on Thu Nov 17th:**  
+[Glitch Feminism](https://www.legacyrussell.com/GLITCHFEMINISM) by Legacy Russel.  Read the piece and write a response.  Think about what sorts of ideas resonated with you.  What inspired you?  Did you encounter any new ideas you hadn't thought of before?  
+
+⏱ *Approx. time to complete:* 1 hour
+
+📌 **Assignment 📌 - due Tue Nov 22nd:**  
 TBD  
-⏱ **Approx. time to complete:** 
+
+⏱ *Approx. time to complete:*  
 TBD
 
-### Module 5 - Working with Pixels  
-- Pixel Tutorials [1](https://idmnyu.github.io/p5.js-image/), [2](https://app.spline.design/file/95754110-073c-4370-9bb3-4ed58f22d312)
-- Visual effects with Blend Modes  
-- p5.js and OpenCV for tracking
-
-
-📌 **Assignment 📌 - due before next class:** 
-TBD  
-⏱ **Approx. time to complete:** 
-TBD  
 
 ### Module 6 - Developing Locally
 - Command line interface  
