@@ -50,6 +50,8 @@ You can submit your sketch here (link TBD).
 
 
 ### Module 3 - Working with the DOM
+[Code from class](./modules/module-3-dom/index.html)
+
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
 - Using "vanilla JS" - document.getElementById( )
@@ -76,7 +78,7 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 
 
 ### Module 4 - Working with External Libraries 
-[(class notes)](./modules/module-4/module-4-external-libraries.md)
+[(class notes)](./modules/module-4/module-4-external-libraries.html)
 
 - Green Sock
 - Tone.js 

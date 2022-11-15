@@ -1,4 +1,6 @@
-### External Libraries
+# Module 4
+
+### Working with External Libraries
 
 One of the greatest features of the web, and also maybe the most hard to believe, is the plethora of free and open source resources available on the internet.  Many of today's modern applications are built with them - Facebook, Instagram, Snapchat, Google, and more - and depend on technologies that were made freely available, for commercial use or otherwise.  As such, these companies often 'give back' by making internal tools available to the open source community, like Facebook/Meta has done with [React](https://reactjs.org/) and [Yarn](https://engineering.fb.com/2016/10/11/web/yarn-a-new-package-manager-for-javascript/), [Google](https://opensource.google/) has done with Chrome and [Tensorflow](https://opensource.google/projects/tensorflow?hl=en), and Snap has done with [Lens Studio](https://docs.snap.com/lens-studio/references/templates/overview), to name a few.  
 
