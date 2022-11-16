@@ -84,9 +84,6 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 - Tone.js 
 - dat.GUI
  
-
-
-
 Code Examples:
 - [gsap basics](./modules/module-4/code/gsap/index.html)
 - [tone.js](./modules/module-4/code/tone/index.html)
