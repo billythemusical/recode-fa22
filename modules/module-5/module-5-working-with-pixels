@@ -2,7 +2,7 @@
 
 One cool thing about working with digital media in code is that you have much more granular control over the data.  So not only can you display images on the screen, but you can manipulate the raw data to your liking.
 
-First let's understand what it looks like to manipulate each pixel in the array.  Check out this [IDM Tutorial on Image Processing](https://idmnyu.github.io/p5.js-image/index.html).  This will show us (or remind us) how to loop through an array of RGBA pixel values based on an X/Y coordinate system. 
+First let's understand what it looks like to manipulate each pixel in the array.  Check out this [IDM Tutorial on Image Processing](https://idmnyu.github.io/p5.js-image/index.html).  This will show us (or remind us) how to load the pixels in our canvas, loop through the pixel array of RGBA values, make changes and update the pixels.
 
 [Link](https://my.spline.design/16x4pixeldensityrgba-4fa1ebb73d2828ebca6c7446f9ac31dc/) to pixel array visualization.
 
