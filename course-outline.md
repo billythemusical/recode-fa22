@@ -117,11 +117,10 @@ Link to code examples:
 
 ⏱ *Approx. time to complete:* 1 hour
 
-📌 **Assignment 📌 - due Tue Nov 22nd:**  
-TBD  
+📌 **Assignment 📌 - due Wed Nov 23rd:**  
+Type out a copy of the [`p5.glitch-almost-everything`](./modules/module-5/code/p5.glitch-almost-everything/index.html) example and add GUI controls to as many parameters as you can.  Refer to the [p5.glitch](https://p5.glitch.me/) documentation to understand what the range of values for each method might be (and note any that you cannot figure out with a quick Google search).  If you get far, try swapping out the images for video or the webcam and make a landing page for, say, a subversive hacker organization 😈 (or your own org or portfolio page).
 
-⏱ *Approx. time to complete:*  
-TBD
+⏱ *Approx. time to complete:*  3 hours
 
 
 ### Module 6 - Developing Locally
