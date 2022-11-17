@@ -1,5 +1,6 @@
 // p5.glitch-almost-everything
 // cc teddavis.org 2020
+// link to lib - https://cdn.jsdelivr.net/npm/p5.glitch@latest/p5.glitch.js
 
 let glitch;
 let fishPath = 'fish.png';
