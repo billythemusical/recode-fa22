@@ -5,6 +5,7 @@ let water;
 
 function preload() {
   water = createVideo('../videos/water-trim.mp4')
+  water.volume(0.0)
   water.loop()
   water.hide()
 }
