@@ -15,6 +15,7 @@ function setup() {
 
     cam = createCapture(VIDEO)
     cam.hide()
+    
 }
 
 function draw() {
