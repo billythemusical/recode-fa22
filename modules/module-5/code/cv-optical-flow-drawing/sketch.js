@@ -56,7 +56,10 @@ function draw() {
             flow.calculate(previousPixels, capture.pixels, capture.width, capture.height);
         }
         previousPixels = copyImage(capture.pixels, previousPixels);
+        
+        // DON'T DRAW THE CAMERA
         // image(capture, 0, 0, w, h);
+        // ADDING ALPHA TO BACKGROUND
         background(255, 10)
 
         if (flow.flow && flow.flow.u != 0 && flow.flow.v != 0) {
@@ -65,10 +68,13 @@ function draw() {
 
             strokeWeight(2);
             flow.flow.zones.forEach(function(zone) {
-              if(abs(zone.u) > 10 && abs(zone.y) > 10) {
-                stroke(map(zone.u, -step, +step, 0, 255),
-                    map(zone.v, -step, +step, 0, 255), 128);
-                line(zone.x, zone.y, zone.x + zone.u, zone.y + zone.v);
+                // zone.u is x-axis movement, zone.y is y-axis movement
+                // "if there's enough movement to breach the threshold, draw the lines"
+                let movementThreshold = 10
+                if (abs(zone.u) > movementThreshold && abs(zone.y) > movementThreshold) {
+                    stroke(map(zone.u, -step, +step, 0, 255),
+                        map(zone.v, -step, +step, 0, 255), 128);
+                    line(zone.x, zone.y, zone.x + zone.u, zone.y + zone.v);
               } 
             })
         }
