@@ -50,7 +50,8 @@ You can submit your sketch here (link TBD).
 
 
 ### Module 3 - Working with the DOM
-[Code from class](./modules/module-3-dom/index.html)
+
+Class Notes
 
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
@@ -111,6 +112,9 @@ Explore and/or build something with any of the external libraries we looked at i
 Link to code examples:  
 - [Blend Mode](./modules/module-5/code/blend-mode/index.html)
 - [Filter](./modules/module-5/code/filter-and-blend/index.html)
+- [Average vs. Luma](.modules/module-5/code/average-vs-luma/index.html)
+- [p5-glitch-basic](./modules/module-5/code/p5-glitch-basic/index.html)
+- [p5-glitch-almost-everything](./modules/module-5/code/p5.glitch-almost-everything/index.html)
 
 📕 **Reading - due before class on Thu Nov 17th:**  
 [Glitch Feminism](https://www.legacyrussell.com/GLITCHFEMINISM) by Legacy Russel.  Read the piece and write a response.  Think about what sorts of ideas resonated with you.  What inspired you?  Did you encounter any new ideas you hadn't thought of before?  
