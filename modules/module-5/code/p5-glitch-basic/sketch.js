@@ -4,38 +4,49 @@
 
 
 let glitch;
+// p5.disableFriendlyErrors = true;
 
-// Our object
-const parameters = {
-    random: 1,
-    swapA: 100,
-    swapB: 104
+function preload() {
+    glitch = new Glitch();
+    loadImage('new-image.jpg', (img) => {
+        glitch.loadImage(img)
+    })
 }
 
-// Create the GUI
+let parameters = {
+    randomBytes: 1,
+    byteA: 100,
+    byteB: 104,
+}
+
 const gui = new dat.gui.GUI()
-// Create a folder grouping and pass in a name
-gui.addFolder('Glitch Controls')
-// takes object, key name (also the label), min, max, and increment
-gui.add(parameters, 'random', 0, 20, 1)
+gui.addFolder('Glitch Parameters')
+// gui.add(object, key name, min, max, increment)
+gui.add(parameters, 'randomBytes', 0, 100, 1)
+gui.add(parameters, 'byteA', 0, 255, 1)
+gui.add(parameters, 'byteB', 0, 255, 1)
+
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
+    // pixelDensity(1)
+    glitch.pixelate(1);
     background(0);
     imageMode(CENTER);
 
-    glitch = new Glitch();
-    loadImage('fish.png', function (im) {
-        glitch.loadImage(im);
-    });
 }
 
 function draw() {
-    glitch.resetBytes();
+    glitch.resetBytes()
 
-    glitch.replaceBytes(100, 104); // swap all decimal byte 100 for 104
-    glitch.randomBytes(parameters.random); // add one random byte for movement
+    glitch.replaceBytes(parameters.byteA, parameters.byteB)
 
-    glitch.buildImage();
-    image(glitch.image, width / 2, height / 2)
+    if(frameCount % 60 < 10) {
+        glitch.randomBytes(parameters.randomBytes)
+    }
+
+    glitch.buildImage()
+
+    image(glitch.image, width / 2, height / 2, width, height)
+    
 }
