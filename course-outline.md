@@ -2,14 +2,13 @@
 
 # <h>Course Outline</h>
 
-### Module 1 - Foundations  
-- We will introduce ourselves  
-- Go over syllabus
-- Go over course outline
-- Establish a launching point for learning
+## Module 1 - Foundations  
+
+We will first introduce ourselves. Then we go over the syllabus, course outline, how to use the class website, how to contact me, class decorum, etc.
+
+Topics: 
 - [What is p5.js?](https://creative-coding.decontextualize.com/first-steps/)
-- Understanding the latest syntax 
-    - Arrow functions, var/let/const
+- Understanding the latest syntax - arrow functions, var vs let/const
 - How do I *do* without `draw`? Using `setTimeout`
 
 📕 **Reading - due before class on Thu Oct 27th:**  
@@ -26,9 +25,10 @@
 - 3. Read the [addendum to class 1](./readings/addendum-class-1.md).  Then refactor an existing p5.js sketch using `let`, `const`, and arrow functions `=>`.  Remember not to change the built-in p5 functions though.  Make a blog post of your process with the link to your p5 sketch and turn in your assignment on the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9).
 ⏱ *Approx. time to complete: 2 hours* 
 
-✅ *Total time: 3 hrs 2 mins* 
+✅ *Total time: 3 hrs 2 mins*  
 
-### Module 2 - Advanced Javascript Concepts
+------------------------------------------------
+## Module 2 - Advanced Javascript Concepts
 - Using Fetch and async/await with try/catch blocks  
 - Make API calls with Magic 8 Ball, Giphy
 - Using Promises and callbacks 
@@ -48,18 +48,20 @@ Using this [Magic 8 Ball API](https://8ball.delegator.com/), make a Magic 8 Ball
 You can submit your sketch here (link TBD).  
 ⏱ *Approx. time to complete: 3 hours*  
 
+------------------------------------------------
+## Module 3 - Working with the DOM
 
-### Module 3 - Working with the DOM
-
-[Code from class](./modules/module-3-dom/code/index.md)
-
-Class Notes
-
+Topics:
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
 - Putting a p5 sketch in 'regular' web pages - [Processing Github](https://github.com/processing/p5.js/wiki/Positioning-your-canvas) 
 - Using "vanilla JS" - document.getElementById( )
 - Using a text editor [VS Code](https://code.visualstudio.com/download) and a local server [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
 - Uploading to the web using [Neocities](https://neocities.org/).
+
+[Code from class](./modules/module-3-dom/code/index.html)
+- [absolute example](./aboslute/index.html), using `position: absolute`
+- [centering-css](./centering-css/html), using `justify` and `align` in css
+- [centering-js](./centering-js-1/index.html) using the p5 method `sketchParent(id)`
 
 📕 **Reading - due before class on Thu Nov 3rd:**  
 - Pick a patterned sketch from these creative coding references - [Roni Kaufman](https://openprocessing.org/user/184331), [takawo](https://openprocessing.org/user/6533?view=sketches&o=48) or feel free to find your own!  The key is to find something that is somewhat understandable at first glance but would also propose a challenge to figure it out completely.
@@ -79,13 +81,15 @@ Taking inspiration from [vintage analog control panels](https://control--panel.c
 - Share the link in your blog with any documentation that you'd like to provide about your process.
 ⏱ *Approx. time to complete: 4 hours* 
 
+------------------------------------------------
+## Module 4 - Working with External Libraries 
 
-### Module 4 - Working with External Libraries 
-[(class notes)](./modules/module-4/module-4-external-libraries.html)
+Topics:
+- Green Sock for animation
+- Tone.js for sound
+- dat.GUI for... GUIs!
 
-- Green Sock
-- Tone.js 
-- dat.GUI
+[Class Notes](./modules/module-4/module-4-external-libraries.html)
  
 Code Examples:
 - [gsap basics](./modules/module-4/code/gsap/index.html)
@@ -103,20 +107,24 @@ Depends on how far behind you are. 🙃
 👾 **Extra Credit:** 👾  
 Explore and/or build something with any of the external libraries we looked at in class or include your own.  Try to get them on your computer and serve them locally using VS Code.  
 
-### Module 5 - Working with Pixels 
-[(class notes)](./modules/module-5/module-5-working-with-pixels)  
+------------------------------------------------
+## Module 5 - Working with Pixels 
+Topics:
 - Working with the pixel array - [IDM Tutorial](https://idmnyu.github.io/p5.js-image/)
 - [3D pixel array graphic](https://my.spline.design/16x4pixeldensityrgba-4fa1ebb73d2828ebca6c7446f9ac31dc/)
 - Visual effects in p5 with [Blend Modes](https://p5js.org/reference/#/p5/blendMode) and [Filters](https://p5js.org/reference/#/p5/filter) 
 - [Cv-examples in p5.js](https://kylemcdonald.github.io/cv-examples/) by Kyle McDonald
 - Glitching with [p5.glitch](https://github.com/ffd8/p5.glitch)
 
-Link to code examples:  
+[Class notes](./modules/module-5/module-5-working-with-pixels)  
+
+Code examples:  
 - [Blend Mode](./modules/module-5/code/blend-mode/index.html)
-- [Filter](./modules/module-5/code/filter-and-blend/index.html)
+- [Filter + Blend](./modules/module-5/code/filter-and-blend/index.html)
 - [Average vs. Luma](.modules/module-5/code/average-vs-luma/index.html)
-- [p5-glitch-basic](./modules/module-5/code/p5-glitch-basic/index.html)
-- [p5-glitch-almost-everything](./modules/module-5/code/p5.glitch-almost-everything/index.html)
+- [p5.Glitch Basic](./modules/module-5/code/p5-glitch-basic/index.html)
+- [p5.Glitch Almost Everything](./modules/module-5/code/p5.glitch-almost-everything/index.html)
+- [OpenCV Optical Flow Drawing](./modules/module-5/code/cv-optical-flow-drawing/index.html)
 
 📕 **Reading - due before class on Thu Nov 17th:**  
 [Glitch Feminism](https://www.legacyrussell.com/GLITCHFEMINISM) by Legacy Russel.  Read the piece and write a response.  Think about what sorts of ideas resonated with you.  What inspired you?  Did you encounter any new ideas you hadn't thought of before?  
@@ -128,8 +136,8 @@ Type out a copy of the [`p5.glitch-almost-everything`](./modules/module-5/code/p
 
 ⏱ *Approx. time to complete:*  3 hours
 
-
-### Module 6 - Developing Locally
+------------------------------------------------
+## Module 6 - Developing Locally
 - Command line interface  
 - Send an email  
 - Node.js and npm
@@ -145,8 +153,8 @@ Type out a copy of the [`p5.glitch-almost-everything`](./modules/module-5/code/p
 - TBD  
 ⏱ *Approx. time to complete:*  TBD
 
-
-### Module 7 - Working outside the browser
+------------------------------------------------
+## Module 7 - Working outside the browser
 - Cron to schedule things
 - Sending iOS notifications
 - Saving a JSON small database using nedb
