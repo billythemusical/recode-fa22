@@ -5,7 +5,8 @@ var previousPixels;
 var flow;
 var w = 640,
     h = 480;
-var step = 8;
+var step = 6; // more steps, lower FPS/performance
+var fps;
 
 var uMotionGraph, vMotionGraph;
 
@@ -25,6 +26,8 @@ function setup() {
     flow = new FlowCalculator(step);
     uMotionGraph = new Graph(100, -step / 2, +step / 2);
     vMotionGraph = new Graph(100, -step / 2, +step / 2);
+
+    fps = createDiv()
 }
 
 function copyImage(src, dst) {
@@ -70,7 +73,7 @@ function draw() {
             flow.flow.zones.forEach(function(zone) {
                 // zone.u is x-axis movement, zone.y is y-axis movement
                 // "if there's enough movement to breach the threshold, draw the lines"
-                let movementThreshold = 10
+                let movementThreshold = step
                 if (abs(zone.u) > movementThreshold && abs(zone.y) > movementThreshold) {
                     stroke(map(zone.u, -step, +step, 0, 255),
                         map(zone.v, -step, +step, 0, 255), 128);
@@ -91,4 +94,6 @@ function draw() {
         vMotionGraph.draw(width, height / 2);
         line(0, height / 4, width, height / 4);
     }
+
+    fps.html('FPS: ' + floor(frameRate()))
 }
