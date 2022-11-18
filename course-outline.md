@@ -51,6 +51,8 @@ You can submit your sketch here (link TBD).
 
 ### Module 3 - Working with the DOM
 
+[Code from class](./modules/module-3-dom/code/index.md)
+
 Class Notes
 
 - [The Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) and p5.js
