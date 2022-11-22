@@ -138,30 +138,27 @@ Type out a copy of the [`p5.glitch-almost-everything`](./modules/module-5/code/p
 
 ------------------------------------------------
 ## Module 6 - Developing Locally
-- Command line interface  
-- Send an email  
+Topics:
 - Node.js and npm
-- git clone...
-- VS Code and simple server
-- Server on the web with ngrok  
+- The Command Line Interface
+- Sending an email with Node 
+- git clone, npm install
 
-##### 📕 Reading 📕 before next class: 
-- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/)  
-⏱ *Approx. time to complete:* 1 hour  
-
-##### 📌 Assignment 📌, due before next class:  
-- TBD  
-⏱ *Approx. time to complete:*  TBD
+##### 📕 Reading 📕 due - Tue Nov 29th (after Thanksgiving break): 
+- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/) *and follow along with the code examples*
+⏱ *Approx. time to complete:* 1.5 hours  
 
 ------------------------------------------------
 ## Module 7 - Working outside the browser
+Topics:
 - Cron to schedule things
-- Sending iOS notifications
+- Sending iOS notifications with Pushover
 - Saving a JSON small database using nedb
 - Using a simple server and Twilio SMS services
-- Using basic browser auth to protect your apps  
+- Server on the web with ngrok 
 
-📌 **Assignment 📌 - due before next class:** 
-TBD  
-⏱ **Approx. time to complete:** 
-TBD  
+
+##### 📌 Assignment 📌, due Tue Dec 13th:  
+- Using Node.js and Cron, create your own daily affirmations app that texts or notifies you (at least) one positive(?) affirmation per day for a week. Document your process, reactions, trouble shooting, etc.
+⏱ *Approx. time to complete: 5 hours* 
+ 

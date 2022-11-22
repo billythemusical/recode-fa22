@@ -6,7 +6,7 @@ var flow;
 var w = 640,
     h = 480;
 var step = 6; // more steps, lower FPS/performance
-var fps;
+var fps; // for monitoring the frame rate per second
 
 var uMotionGraph, vMotionGraph;
 
@@ -27,7 +27,7 @@ function setup() {
     uMotionGraph = new Graph(100, -step / 2, +step / 2);
     vMotionGraph = new Graph(100, -step / 2, +step / 2);
 
-    fps = createDiv()
+    fps = createDiv() // value at the end of draw
 }
 
 function copyImage(src, dst) {
