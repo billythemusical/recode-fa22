@@ -1,14 +1,12 @@
 # Think Globally, Develop Locally
 
-At some point in your coding journey, you may get the itch to develop some type of application that has a life of its own, beyond just a single sketch or web page.  Perhaps that application enables you to collect and store user data in a database, or maybe you want to protect access to the app behind a login page, or maybe you want the app to complete some daily or hourly task...  Whatever the case may be, learning how to use Node.js will be a handy skill to posses. 
+At some point in your coding journey, you may get the itch to develop some type of application that has a life of its own, beyond just a single sketch or web page.  Perhaps that application enables you to collect and store user data in a database, or maybe you want to protect access to the app behind a login page, or maybe you want the app to complete some daily or hourly task like send an email or text...  Whatever the case may be, learning Node.js will be a handy skill to posses. 
 
 *But first...*
 
 ### The Command Line Interface
 
-Since Node.js doesn't use a browser, you have to first get familiar with using the Command Line Interface, aka 'the command line.' Think of it as a GUI for executing the Node programs you write, but it can do many other things which we will talk a bit about first.
-
-On a Mac, the command line is accessed from the Terminal app, which is usually found in the Applications folder.  When you open it, you will see the command prompt which may look something like this: 
+Since Node.js doesn't use a traditional GUI like the web browser, you have to first get familiar with using the Command Line Interface, aka 'the command line.' On a Mac, the command line is accessed from the Terminal app, which can be found in the Applications folder.  When you open it, you will see the command prompt which may look something like this `<computer name>: ~ <user name> $ █
 
 ![A command prompt on the MacOS's Terminal app.](./images/the-command-prompt.jpeg)
 
