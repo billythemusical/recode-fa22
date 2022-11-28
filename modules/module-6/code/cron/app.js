@@ -1,3 +1,3 @@
 var cron = require('node-cron')
 
-cron.schedule('* * * * * *', ()=>console.log('running'))
+cron.schedule('* * * * * *', console.log('running'))

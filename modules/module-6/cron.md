@@ -54,7 +54,7 @@ For more options, let's check out the [`node-cron`](https://www.npmjs.com/packag
 
 ## Sending an iOS notification 
 
-You can sign up for a free [Pushover](https://pushover.net/signup) account and send iOS notifications to their companion app using Node.js.  
+You can sign up for a free [Pushover](https://pushover.net/signup) account and send iOS notifications to their companion app using Node.js.  I think it's free for 30 days and then a $4.99 one-time purchase after that.
 
 Once you have an account and a USERKEY, you have to [create an application](https://pushover.net/apps/build) which will give you an APPTOKEN.  
 
@@ -62,9 +62,9 @@ Once you have those, I like to use the [`node-pushover`](https://www.npmjs.com/p
 ```bash
 npm install node-pushover
 ```
-You can send a message like so. And remember, we use the `.env` file and the `dot-env` package so we don't save our keys and tokens in our code.
+You can send a message like so. And remember, we use the `.env` file and the `dotenv` package so we don't save our keys and tokens in our code.
 ```js
-require('dot-env').config()
+require('dotenv').config()
 
 var Pushover = require('node-pushover');
 var push = new Pushover({
@@ -74,5 +74,5 @@ var push = new Pushover({
 
 push.send("Some title", "Omg iOS notificaysh!");
 ```
-We can combine this code with our Cron code and get to notifyin'!
+We can combine this code with our Cron code and get to notifyin'!   
 
