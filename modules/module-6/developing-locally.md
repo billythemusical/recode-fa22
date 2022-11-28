@@ -6,11 +6,13 @@ At some point in your coding journey, you may get the itch to develop some type 
 
 ### The Command Line Interface
 
-Since Node.js doesn't use a traditional GUI like the web browser, you have to first get familiar with using the Command Line Interface, aka 'the command line.' On a Mac, the command line is accessed from the Terminal app, which can be found in the Applications folder.  When you open it, you will see the command prompt which may look something like this `<computer name>: ~ <user name> $ █
+Since Node.js doesn't use a traditional GUI like the web browser, you have to first get familiar with using the Command Line Interface (CLI), aka 'the command line.' On a Mac, the command line is accessed from the Terminal app, which can be found in the Applications folder.  When you open it, you will see the command prompt which may look something like this: 
 
 ![A command prompt on the MacOS's Terminal app.](./images/the-command-prompt.jpeg)
 
-What you're seeing is actually an entirely different operating system called Unix that lives on your Mac computer. It is text-based and has many built in programs that can all kinds of interesting and banal things.  We'll play with a few now.
+What you're seeing is actually an entirely different operating system called Unix that lives on your Mac computer.  Unix has many robust built-in functions that we can call by typing them into the command prompt.  For example, `echo` followed by a string in quotes will simply print out the string to the 'standard output,' the equivalent of the console log.  
+
+We can also pass special 'flags' to functions which are denoted by the addition of a single '-' or double dash '--'.  A common flag that most functions accept is `--help` or `-h` for short. 
 
 >Here is a more lengthy command line tutorial from Sam Lavigne's great course on web scraping called [Scrapism](https://scrapism.lav.io/intro-to-the-command-line/) which also addresses those working in Windows.
 ---
