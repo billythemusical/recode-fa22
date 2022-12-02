@@ -141,24 +141,29 @@ Type out a copy of the [`p5.glitch-almost-everything`](./modules/module-5/code/p
 Topics:
 - Node.js and npm
 - The Command Line Interface
-- Sending an email with Node 
-- git clone, npm install
+- Using Cron to schedule things
+- Sending iOS notifications with Pushover
+- pm2 for managing a background process
+- Digital Ocean to run our code remotely (always on)
+- ~~Sending an email with Node~~
+
 
 ##### 📕 Reading 📕 due - Tue Nov 29th (after Thanksgiving break): 
 - Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/) *and follow along with the code examples*
 ⏱ *Approx. time to complete:* 1.5 hours  
 
+##### 📌 Assignment 📌, due Thu Dec 8th:  
+- Using Node.js and Cron, create your own daily affirmations app that texts or notifies you (at least) one positive(?) affirmation per day for a week. Document your process, reactions, trouble shooting, etc.
+⏱ *Approx. time to complete: 5 hours* 
+
 ------------------------------------------------
 ## Module 7 - Working outside the browser
 Topics:
-- Cron to schedule things
-- Sending iOS notifications with Pushover
+- git clone, npm install
 - Saving a JSON small database using nedb
 - Using a simple server and Twilio SMS services
 - Server on the web with ngrok 
 
 
-##### 📌 Assignment 📌, due Tue Dec 13th:  
-- Using Node.js and Cron, create your own daily affirmations app that texts or notifies you (at least) one positive(?) affirmation per day for a week. Document your process, reactions, trouble shooting, etc.
-⏱ *Approx. time to complete: 5 hours* 
+
  
