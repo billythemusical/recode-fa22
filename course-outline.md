@@ -148,22 +148,43 @@ Topics:
 - ~~Sending an email with Node~~
 
 
-##### 📕 Reading 📕 due - Tue Nov 29th (after Thanksgiving break): 
-- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/) *and follow along with the code examples*
+### 📕 Reading 📕 due - Tue Nov 29th (after Thanksgiving break): 
+- Sam Levine's [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/) *and follow along with the code examples*.  
+
 ⏱ *Approx. time to complete:* 1.5 hours  
 
-##### 📌 Assignment 📌, due Thu Dec 8th:  
-- Using Node.js and Cron, create your own daily affirmations app that texts or notifies you (at least) one positive(?) affirmation per day for a week. Document your process, reactions, trouble shooting, etc.
+### 📌 Assignment 📌, due Thu Dec 8th:  
+Get the "notify" app running that we built in class using `pm2`. Let the app run in the background throughout your day and experiment with different scenarios like the following:
+- Send yourself a reminder to stand and stretch while doing homework.
+- Send yourself a reminder in the morning before you start your day.
+- Send yourself a reminder to do an errand at some point in your day.
+- Devise your own reminder(s)!
+
+Document your process on your blog and share the blog post link on the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9)., including any errors or problems you have. 
+
+>NOTE: It is better to get the app running with Node.js first without errors before moving to pm2.  
+
 ⏱ *Approx. time to complete: 5 hours* 
 
 ------------------------------------------------
-## Module 7 - Working outside the browser
+## Module 7 - PWA's
 Topics:
-- git clone, npm install
+- What is a PWA?
+- Make your own PWA
 - Saving a JSON small database using nedb
-- Using a simple server and Twilio SMS services
-- Server on the web with ngrok 
 
+
+### 📕 Reading 📕 due - TBD: 
+
+⏱ *Approx. time to complete:* 1.5 hours  
+
+### 📌 Assignment 📌, due Tue Dec 13th: 
+
+Using the PWA template, design your own app with assets and a cool icon!
+- Try using your app on your phone and document your process with screen shots or videos on your blog.  
+- Post a link to your blog post in the [assignment submission form](https://forms.gle/HDGNGaoMaxBRPr2e9). and make sure your blog has a link to your PWA. 
+
+⏱ *Approx. time to complete: 3 hours* 
 
 
  
