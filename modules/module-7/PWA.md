@@ -1,6 +1,9 @@
 # Progressive Web Apps and You
 
-[Repo](https://github.com/billythemusical/recode-pwa-boilerplate) for boilerplate PWA
+[PWA Boilerplate Repo](https://github.com/billythemusical/recode-pwa-boilerplate)
+[Responsive Web Design with Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+[Debug Console for Safari iOS](https://www.lifewire.com/activate-the-debug-console-in-safari-445798)
+
 
 !['A MacOS Finder window with the local path to Chrome web apps folder - Users/<the user>/Applications/Chrome Apps/'](./images/pwa-location-desktop.jpg)
 
